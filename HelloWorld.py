@@ -1,3 +1,3 @@
 # This program prints Hello, world!
 
-print('Hello, world by SriSangeetha!')
+print('Hello, world by Sriganth Sangeetha!')
